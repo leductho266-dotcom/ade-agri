@@ -1,0 +1,13 @@
+# Dùng cho GitHub Actions + máy local (chạy ingest và ade_runner). NẶNG.
+# Streamlit Cloud KHÔNG cài file này.
+numpy>=1.26,<2.1
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+statsmodels>=0.14
+pmdarima>=2.0
+tensorflow-cpu>=2.16,<2.20
+sqlalchemy>=2.0
+psycopg[binary]>=3.1
+openpyxl>=3.1
+requests>=2.31
